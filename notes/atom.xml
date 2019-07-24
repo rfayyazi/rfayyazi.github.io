@@ -5,21 +5,21 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Notes</title>
-	<link href="http://hankquinlan.github.io/notes/atom.xml" rel="self"/>
-	<link href="http://hankquinlan.github.io/notes"/>
+	<link href="http://rfayyazi.github.io/notes/atom.xml" rel="self"/>
+	<link href="http://rfayyazi.github.io/notes"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://hankquinlan.github.io/notes</id>
+	<id>http://rfayyazi.github.io/notes</id>
 	<author>
-		<name>Hank Quinlan</name>
-		<email>hankquinlanhub@gmail.com</email>
+		<name>Ryan Fayyazi</name>
+		<email>rfayyazi@gmail.com</email>
 	</author>
 
 	{% for post in site.posts %}
 		<entry>
 			<title>{{ post.title }}</title>
-			<link href="http://hankquinlan.github.io{{ post.url }}"/>
+			<link href="http://rfayyazi.github.io{{ post.url }}"/>
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
-			<id>http://hankquinlan.github.io{{ post.id }}</id>
+			<id>http://rfayyazi.github.io{{ post.id }}</id>
 			<content type="html">{{ post.content | xml_escape }}</content>
 		</entry>
 	{% endfor %}
