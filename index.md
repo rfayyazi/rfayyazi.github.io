@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Ryan Fayyazi
 
 Fourth year undergrad at the Univeristy of British Columbia, studying computer science and neuroscience.
