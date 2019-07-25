@@ -30,9 +30,8 @@ p {
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     color: #333;
 }
-aside {
-  grid-area: sidebar;
-  background-color: #45aaf2;
+aside { 
+  display: block;
 }
 footer {
     border-top: 1px solid #d5d5d5;
