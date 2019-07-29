@@ -13,7 +13,6 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    font-size: 1.0em;
 }
 a {
     text-decoration: none;
@@ -40,13 +39,14 @@ footer {
 
 ul.posts { 
 /*     margin: 20px auto 40px;  */
+    font-size: 1.0em;
     margin: 60px auto;
     font-size: 1.0em;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 ul.posts li {
+    font-size: 1.0em;
     list-style: none;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 1.0em;
 }
