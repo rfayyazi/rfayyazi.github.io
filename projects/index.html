@@ -7,8 +7,9 @@ title: Projects
 	<ul class="posts">
 
 	{% for post in site.categories.projects %}
-	<p>{{post.title}}</p>
+	<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+<!-- 	<p>{{post.title}}</p>
 	<p>{{ post.date | date: "%b %d, %Y" }}</p>
-	<p>{{post.thumbnail}}</p>
+	<p>{{post.thumbnail}}</p> -->
 	{% endfor %}
 	</ul>
