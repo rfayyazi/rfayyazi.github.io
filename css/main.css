@@ -38,7 +38,8 @@ footer {
 }
 
 ul.posts { 
-    margin: 20px auto 40px; 
+/*     margin: 20px auto 40px;  */
+    margin: 60px auto;
     font-size: 1.0em;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
