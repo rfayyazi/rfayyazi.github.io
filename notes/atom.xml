@@ -4,7 +4,7 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title>Notes</title>
+	<title><h1>Notes</h1></title>
 	<link href="http://rfayyazi.github.io/notes/atom.xml" rel="self"/>
 	<link href="http://rfayyazi.github.io/notes"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
