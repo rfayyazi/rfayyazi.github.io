@@ -16,8 +16,7 @@ layout: feed
 
 	{% for post in site.projects._posts %}
 		<entry>
-<!-- 			<title>{{ post.title }}</title> -->
-			<p>{{ post.title }}</p>
+			<title>{{ post.title }}</title>
 			<link href="http://rfayyazi.github.io{{ post.url }}"/>
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
 			<id>http://rfayyazi.github.io{{ post.id }}</id>
