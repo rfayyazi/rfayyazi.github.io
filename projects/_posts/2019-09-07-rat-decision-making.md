@@ -12,4 +12,4 @@ Since joining the lab, I’ve been working with Dr. Einar Ö. Einarsson (postdo
 
 - Built a frame to stabilize the stage supporting the electrodes in the brain, removing an electrical artifact that had been heavily polluting our data (a very proud moment).
 
-I produced a simple model for Dr. Nate J. Powell (postdoc), which compared the accuracy and precision of different sampling distributions in approximating an underlying logistical function. Attached to the email is a poster which includes this work (highlighted by the red rectangle). The results were used to evaluate the experimental design chosen in an earlier study.
+I produced a simple model for Dr. Nate J. Powell (postdoc), which compared the accuracy and precision of different sampling distributions in approximating an underlying logistical function. The results were used to evaluate the experimental design chosen in an earlier study.
