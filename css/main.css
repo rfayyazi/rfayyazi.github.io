@@ -1,11 +1,11 @@
-@import url(https://fonts.googleapis.com/css?family=Overpass Mono);
+@import url(https://fonts.googleapis.com/css?family=Archivo);
 
 body {
     margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Archivo', 'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -25,13 +25,13 @@ a:hover {
 }
 h1 {
     font-size: 2em;
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Archivo', 'Helvetica', 'Arial', 'Sans-Serif';
     color: #2463AB
 }
 p {
     font-size: 1.0em;
     line-height: 1.0em;
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Archivo', 'Helvetica', 'Arial', 'Sans-Serif';
     color: #333;
 }
 footer {
