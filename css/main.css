@@ -20,7 +20,7 @@ a {
 }
 a:hover {
 /*     text-decoration: underline; */
-    color: #FFEE00
+    color: #00FF41
 }
 h1 {
     font-size: 2em;
@@ -31,8 +31,7 @@ p {
     font-size: 1.0em;
     line-height: 1.0em;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
-/*     color: #333; */
-    color: #00BBFF;
+    color: #333;
 }
 footer {
     border-top: 1px solid #d5d5d5;
