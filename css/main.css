@@ -29,7 +29,7 @@ h1 {
 }
 p {
     font-size: 1.0em;
-    line-height: 1.0em;
+    line-height: 2;
     font-family: 'Archivo', 'Helvetica', 'Arial', 'Sans-Serif';
     color: #333;
 }
