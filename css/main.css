@@ -63,3 +63,8 @@ ul.a li{
     padding: 0;
 }
 
+.img-circle {
+  -webkit-border-radius: 500px;
+     -moz-border-radius: 500px;
+          border-radius: 500px;
+}
