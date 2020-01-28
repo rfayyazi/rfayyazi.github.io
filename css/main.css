@@ -65,6 +65,8 @@ ul.a li{
 
 img.avatar { 
 margin-bottom: 30px; 
--webkit-border-radius: 200px;
+/* -webkit-border-radius: 200px;
     -moz-border-radius: 200px;
-         border-radius: 200px;}
+         border-radius: 200px; */
+border-radius: 10px
+}
