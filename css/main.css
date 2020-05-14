@@ -1,5 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Archivo);
 
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
 body {
     margin: 60px auto;
     width: 70%;
