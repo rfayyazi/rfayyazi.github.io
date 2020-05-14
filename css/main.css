@@ -64,5 +64,6 @@ ul.a li{
 }
 
 img.avatar { 
+    align: 'right';
     border-radius: 10px
 }
