@@ -4,7 +4,10 @@ title: "Characterizing mPFC/BLA activity in rats under non-stationary stochastic
 date: 2019-09-07
 ---
 
-Since joining the lab, I’ve been working with Dr. Einar Ö. Einarsson (postdoc) to characterize the neural circuitry of a decision-making pathway in rats, under uncertain risk/reward conditions. We perform simultaneous extracellular electrophysiological recordings from the medial prefrontal cortex and the basolateral amygdala. 
+Principle Investigator: Jeremy K. Seamans
+Collaborator: Einar Ö. Einarsson
+
+The objective of this work is to characterize the neural activity within the medial prefrontal cortex (mPFC) and basolateral amygdala (BLA) of rats, during a non-stationary multi-armed bandit-style task. We performed simultaneous multi-unit extracellular recording in the mPFC and BLA.
 
 - Responsible for refining the rats’ tasks to better isolate behaviours of interest, as well as training and electrophysiological data collection on these tasks. Along with Dr. Einarsson, I adjust amplitude and shape thresholds based on the spike waveforms we’re detecting that day.
 
