@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rat decision making under uncertainty"
+title: "Characterizing mPFC/BLA activity in rats under non-stationary stochastic reward"
 date: 2019-09-07
 ---
 
