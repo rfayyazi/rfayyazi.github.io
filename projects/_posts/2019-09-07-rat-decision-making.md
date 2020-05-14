@@ -4,7 +4,7 @@ title: "Characterizing mPFC/BLA activity in rats under non-stationary stochastic
 date: 2019-09-07
 ---
 
-Principle Investigator: Jeremy K. Seamans
+Principle Investigator: Jeremy K. Seamans<br/>
 Collaborator: Einar Ö. Einarsson
 
 The objective of this work is to characterize the neural activity within the medial prefrontal cortex (mPFC) and basolateral amygdala (BLA) of rats, during a non-stationary multi-armed bandit-style task. We performed simultaneous multi-unit extracellular recording in the mPFC and BLA.
