@@ -1,7 +1,7 @@
 .nav-wrapper {
   display: flex;
   justify-content: space-between;
-  padding: 38px;
+  padding: 60px;
 }
 
 .left-side {
@@ -27,7 +27,7 @@
 }
 
 .content-wrapper {
-  padding: 50px;
+  padding: 90px;
 }
 
 .summary {
