@@ -1,10 +1,12 @@
+@import url(https://fonts.googleapis.com/css?family=Archivo);
+
 .nav-wrapper {
   display: flex;
   justify-content: space-between;
   padding: 38px;
 }
 
-.left-side {
+.right-side {
   display: flex; 
 }
 
@@ -12,3 +14,16 @@
   margin-right: 20px;
   font-size: 0.9em;
 }
+
+.nav-link-wrapper {
+  height: 22px;
+  border-bottom: 1px solid transparent;
+  transition: border-bottom 0.5s;
+}
+
+.nav-link-wrapper a {
+  color: #999;
+  text-decoration: none;
+}
+
+
