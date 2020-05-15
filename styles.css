@@ -4,11 +4,11 @@
   padding: 38px;
 }
 
-.right-side {
+.left-side {
   display: flex; 
 }
 
-.nav-wrapper > .right-side > div {
+.nav-wrapper > .left-side > div {
   margin-right: 20px;
   font-size: 1.0em;
 }
@@ -25,4 +25,8 @@
 
 .nav-link-wapper a:hover {
   color: #3D9970;
+}
+
+.summary {
+  float: left;
 }
