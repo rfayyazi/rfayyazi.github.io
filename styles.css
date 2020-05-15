@@ -27,7 +27,8 @@
 }
 
 .content-wrapper {
-  padding: 90px;
+  padding-left: 90px;
+  padding-right: 90px;
 }
 
 .summary {
