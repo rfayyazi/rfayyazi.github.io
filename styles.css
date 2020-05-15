@@ -25,7 +25,7 @@
   text-decoration: none;
 }
 
-.nav-link-wapper a:hover {
+.nav-link-wapper:hover {
   color: #3D9970;
 }
 
