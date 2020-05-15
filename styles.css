@@ -17,12 +17,12 @@
 
 .nav-link-wrapper {
   height: 22px;
-  border-bottom: 1px solid transparent;
-  transition: border-bottom 0.5s;
+/*   border-bottom: 1px solid transparent; */
+/*   transition: border-bottom 0.5s; */
 }
 
 .nav-link-wrapper a {
-  color: #999;
+  color: #8a8a8a;
   text-decoration: none;
 }
 
