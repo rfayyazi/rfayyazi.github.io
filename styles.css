@@ -26,8 +26,8 @@
   transition: color 0.3s;
 }
 
-.nav-link-wapper:hover {
-  color: red;
+.nav-link-wrapper a:hover {
+  color: #3D9970;
 }
 
 .content-wrapper {
