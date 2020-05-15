@@ -27,6 +27,10 @@
   color: #3D9970;
 }
 
+.content-wrapper {
+  padding: 50px;
+}
+
 .summary {
   float: left;
 }
