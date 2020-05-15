@@ -22,9 +22,11 @@
 }
 
 .nav-link-wrapper a {
-  color: #3D9970;
+  color: #8a8a8a;
+  transition: color 0.3s;
   text-decoration: none;
-  transition: color 0.2s;
 }
 
-
+.nav-link-wapper a:hover {
+  color: #3D9970;
+}
