@@ -22,8 +22,9 @@
 }
 
 .nav-link-wrapper a {
-  color: #8a8a8a;
+  color: #3D9970;
   text-decoration: none;
+  transition: color;
 }
 
 
