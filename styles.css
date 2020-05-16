@@ -87,6 +87,7 @@ a:hover {
 }
 
 .headshot {
+  display: inline-block
 /*   float: right;
   padding-right: 200px; */
 }
