@@ -41,10 +41,6 @@ a:hover {
   display: flex; 
 }
 
-.right-side {
-  display: flex; 
-}
-
 .nav-wrapper > .left-side > div {
   margin-right: 20px;
   font-size: 1.5em;
