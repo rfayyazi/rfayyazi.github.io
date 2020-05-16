@@ -30,7 +30,7 @@
   color: #3D9970;
 }
 
-.page-title {
+.page-title > div {
   font-size: 2.0em;
   color: #2463AB;
 }
