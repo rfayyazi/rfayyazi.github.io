@@ -1,13 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Archivo);
 
-.nav-wrapper {
-  display: flex;
-  justify-content: space-between;
-  padding-left: 120px;
-  padding-right: 120px;
-  padding-top: 30px;
-  padding-bottom: 60px;
-  align-items: center;
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
 }
 
 a {
@@ -18,6 +18,17 @@ a {
 
 a:hover {
   color: #3D9970;
+}
+
+
+.nav-wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 120px;
+  padding-right: 120px;
+  padding-top: 30px;
+  padding-bottom: 60px;
+  align-items: center;
 }
 
 .left-side {
