@@ -74,6 +74,7 @@ a:hover {
   justify-context: center;
   grid-template-columns: 1fr 1fr;
   grid-column-gap: 50px;
+  width: 794px;
 /*   align-content: center; */
 /*   padding-left: 100px;
   padding-right: 100px; */
