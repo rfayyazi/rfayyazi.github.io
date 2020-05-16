@@ -1,8 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Archivo);
 
 body {
+  margin: 60px auto;
   width: 70%;
-  align-items: center;
 }
 
 footer {
