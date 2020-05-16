@@ -2,11 +2,12 @@
 
 footer {
   position: fixed;
+  border-top: 1px solid #A2A2A2;
   left: 0;
   bottom: 0;
-  width: 100%;
-  background-color: red;
-  color: white;
+  width: 60%;
+  color: #A2A2A2;
+  font-size: 0.8em;
   text-align: center;
 }
 
