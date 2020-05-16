@@ -54,7 +54,7 @@ a:hover {
 .home-content-wrapper {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-gap: 50px;
+  grid-column-gap: 50px;
 }
 
 .summary {
