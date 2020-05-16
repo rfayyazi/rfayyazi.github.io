@@ -73,9 +73,6 @@ a:hover {
   justify-context: center;
   grid-template-columns: 1fr 1fr;
   grid-column-gap: 50px;
-  flex-direction: row;     
-  justify-content: center; 
-  align-items: center;
 /*   align-content: center; */
 }
 
