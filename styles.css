@@ -1,8 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Archivo);
 
 body {
-  padding-left: 150px;
-  padding-right: 150px;
+  width: 70%
 }
 
 footer {
