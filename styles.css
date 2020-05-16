@@ -21,13 +21,18 @@
 }
 
 .nav-link-wrapper a {
-  color: #8a8a8a;
+  color: #A2A2A2;
   text-decoration: none;
   transition: color 0.3s;
 }
 
 .nav-link-wrapper a:hover {
   color: #3D9970;
+}
+
+.page-title {
+  font-size: 2.0em;
+  color: #2463AB;
 }
 
 .content-wrapper {
