@@ -8,8 +8,9 @@
 }
 
 .a {
-  font-size: 20px;
+  text-decoration: none;
   color: #A2A2A2;  
+  transition: color 0.15s;
 }
 
 .a:hover {
@@ -30,9 +31,9 @@
 }
 
 .nav-link-wrapper a {
-  color: #A2A2A2;
   text-decoration: none;
-  transition: color 0.3s;
+  color: #A2A2A2;
+  transition: color 0.15s;
 }
 
 .nav-link-wrapper a:hover {
