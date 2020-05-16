@@ -70,10 +70,12 @@ a:hover {
 
 .home-content-wrapper {
   display: grid;
-  margin: auto;
   justify-context: center;
   grid-template-columns: 1fr 1fr;
   grid-column-gap: 50px;
+  flex-direction: row;     
+  justify-content: center; 
+  align-items: center;
 /*   align-content: center; */
 }
 
