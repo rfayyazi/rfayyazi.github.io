@@ -73,7 +73,7 @@ a:hover {
   justify-context: center;
   grid-template-columns: 1fr 1fr;
   grid-column-gap: 50px;
-  align-items: center;
+/*   align-content: center; */
 }
 
 .summary {
