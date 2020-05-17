@@ -16,6 +16,7 @@ footer {
   font-size: 0.8em;
   text-align: center;
   padding-bottom: 500px;
+  font-family: 'Archivo', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 a {
@@ -26,6 +27,10 @@ a {
 
 a:hover {
   color: #3D9970;
+}
+
+p {
+  font-family: 'Archivo', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 .nav-wrapper {
@@ -45,6 +50,7 @@ a:hover {
 .nav-wrapper > .left-side > div {
   margin-right: 20px;
   font-size: 1.5em;
+  font-family: 'Archivo', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 .nav-link-wrapper {
@@ -64,6 +70,7 @@ a:hover {
 .page-title > div {
   font-size: 3.0em;
   color: #2463AB;
+  font-family: 'Archivo', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 .content-wrapper {
