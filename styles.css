@@ -76,8 +76,8 @@ a:hover {
   grid-column-gap: 100px;
   width: 794px;
 /*   align-content: center; */
-/*   padding-left: 100px;
-  padding-right: 100px; */
+  padding-left: 50px;
+  /* padding-right: 100px; */
 }
 
 .summary {
