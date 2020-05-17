@@ -1,4 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Archivo);
+/* @import url(https://fonts.googleapis.com/css?family=Archivo);
+ */
+@import url(https://fonts.googleapis.com/css?family=Yrsa);
 
 body {
   margin: 60px auto;
@@ -16,7 +18,7 @@ footer {
   font-size: 0.8em;
   text-align: center;
   padding-bottom: 500px;
-  font-family: 'Archivo', 'Helvetica', 'Arial', 'Sans-Serif';
+  font-family: 'Yrsa', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 a {
@@ -30,7 +32,7 @@ a:hover {
 }
 
 p {
-  font-family: 'Archivo', 'Helvetica', 'Arial', 'Sans-Serif';
+  font-family: 'Yrsa', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 .nav-wrapper {
@@ -50,7 +52,7 @@ p {
 .nav-wrapper > .left-side > div {
   margin-right: 20px;
   font-size: 1.5em;
-  font-family: 'Archivo', 'Helvetica', 'Arial', 'Sans-Serif';
+  font-family: 'Yrsa', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 .nav-link-wrapper {
@@ -70,7 +72,7 @@ p {
 .page-title > div {
   font-size: 3.0em;
   color: #2463AB;
-  font-family: 'Archivo', 'Helvetica', 'Arial', 'Sans-Serif';
+  font-family: 'Yrsa', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 .content-wrapper {
