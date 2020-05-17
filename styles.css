@@ -15,7 +15,7 @@ footer {
   color: #A2A2A2;
   font-size: 0.8em;
   text-align: center;
-  padding-bottom: 300px;
+  padding-bottom: 500px;
 }
 
 a {
@@ -33,7 +33,7 @@ a:hover {
   justify-content: space-between;
 /*   padding-left: 150px;
   padding-right: 150px; */
-  padding-top: 10px;
+/*   padding-top: 10px; */
   padding-bottom: 60px;
   align-items: center;
 }
