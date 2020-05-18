@@ -108,5 +108,6 @@ p {
 .projects-content-wrapper {
   display: table;
   cellspacing: '2';
-  cellpadding;
+  cellpadding: '2';
+  font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
