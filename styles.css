@@ -107,7 +107,6 @@ p {
 
 .projects-content-wrapper {
   display: table;
-  cellspacing: '2';
-  cellpadding: '2';
+  border-spacing: 15px;
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
