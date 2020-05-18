@@ -104,3 +104,8 @@ p {
 /*   float: right;
   padding-right: 200px; */
 }
+
+.projects-content-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
