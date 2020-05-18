@@ -107,4 +107,6 @@ p {
 
 .projects-content-wrapper {
   display: table;
+  cellspacing: '2';
+  cellpadding;
 }
