@@ -119,6 +119,7 @@ table {
 .project-pic {
   width: 100px;
   height: 100px;
+  margin-right: 0px;
 }
 
 .project-pic img {
