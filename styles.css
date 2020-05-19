@@ -35,6 +35,10 @@ p {
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
+table {
+  display: inline-block;
+}
+
 .nav-wrapper {
   display: flex;
   justify-content: space-between;
