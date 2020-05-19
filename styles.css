@@ -35,8 +35,12 @@ p {
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
-table {
-  display: inline-block;
+tr {
+  display: table-row;
+}
+
+td {
+  display: table-cell;
 }
 
 .nav-wrapper {
