@@ -114,12 +114,12 @@ table {
   border-collapse: separate;
   border-spacing: 15px;
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+  margin: 0px;
 }
 
 .project-pic {
   width: 100px;
   height: 100px;
-  margin: 0px;
 }
 
 .project-pic img {
