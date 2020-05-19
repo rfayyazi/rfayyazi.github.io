@@ -80,6 +80,7 @@ table {
 }
 
 .content-wrapper {
+    margin: 0px;
 }
 
 .home-content-wrapper {
@@ -114,7 +115,6 @@ table {
   border-collapse: separate;
   border-spacing: 15px;
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
-  margin: 0px;
 }
 
 .project-pic {
