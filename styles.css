@@ -35,6 +35,11 @@ p {
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
+tbody {
+  display: table-row-group;
+  vertical-align: middle;
+}
+
 tr {
   display: table-row;
 }
