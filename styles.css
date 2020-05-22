@@ -40,6 +40,10 @@ tbody {
   vertical-align: middle;
 }
 
+table {
+  border-spacing: 15px;
+}
+
 tr {
   display: table-row;
 }
@@ -118,12 +122,12 @@ td {
   padding-right: 200px; */
 }
 
-.projects-content-wrapper {
+/* .projects-content-wrapper {
   display: table;
-/*   border-collapse: separate; */
+  border-collapse: separate;
   border-spacing: 15px;
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
-}
+} */
 
 .project-pic {
   width: 150px;
