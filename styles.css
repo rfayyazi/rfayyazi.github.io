@@ -35,13 +35,14 @@ p {
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
+table {
+  border-spacing: 15px;
+  font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+}
+
 tbody {
   display: table-row-group;
   vertical-align: middle;
-}
-
-table {
-  border-spacing: 15px;
 }
 
 tr {
