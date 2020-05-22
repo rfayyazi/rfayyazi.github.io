@@ -120,7 +120,7 @@ td {
 
 .projects-content-wrapper {
   display: table;
-  border-collapse: separate;
+/*   border-collapse: separate; */
   border-spacing: 15px;
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
