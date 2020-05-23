@@ -42,8 +42,8 @@ table {
 
 tbody {
   display: table-row-group;
-/*   vertical-align: middle; */
-  horizontal-align: middle;
+  vertical-align: top;
+/*   horizontal-align: middle; */
 }
 
 tr {
