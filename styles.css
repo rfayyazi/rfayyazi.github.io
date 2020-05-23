@@ -9,7 +9,7 @@ body {
 
 footer {
   display: flex;
-  justify-content: center;
+/*   justify-content: center; */
   position: fixed;
   margin: auto;
   width: 70%;
