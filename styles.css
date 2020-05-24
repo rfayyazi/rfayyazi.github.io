@@ -8,8 +8,6 @@ body {
 }
 
 footer {
-  display: flex;
-/*   justify-content: center; */
   position: fixed;
   margin: auto;
   width: 70%;
@@ -17,7 +15,6 @@ footer {
   color: #A2A2A2;
   font-size: 0.8em;
   text-align: center;
-/*   padding-bottom: 500px; */
   font-family: 'Archivo', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
