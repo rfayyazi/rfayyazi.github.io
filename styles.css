@@ -9,7 +9,7 @@ body {
 
 footer {
   display: flex;
-  justify-content: center;
+/*   justify-content: center; */
   position: fixed;
   margin: auto;
   width: 70%;
@@ -134,6 +134,9 @@ td {
 .project-pic {
   width: 150px;
   height: 150px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #A2A2A2;
 }
 
 .project-pic img {
@@ -141,6 +144,6 @@ td {
   height: 100%;
 }
 
-.project-title {
-/*   display: inline-block; */
+.project-content {
+  line-height: 1.4;
 }
