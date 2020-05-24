@@ -110,10 +110,11 @@ td {
 
 .summary {
 /*   float: left; */
-  width: 500px;
-  height: 500px;
+/*   width: 500px;
+  height: 500px; */
   font-size: 16.5px;
   line-height: 1.6;
+  padding: 50px;
 /*   padding-left: 100px; */
 }
 
@@ -137,7 +138,6 @@ td {
   border-style: solid;
   border-width: 1px;
   border-color: #A2A2A2;
-  padding: 50px;
 }
 
 .project-pic img {
