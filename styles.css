@@ -144,3 +144,8 @@ td {
 .project-content {
   line-height: 1.4;
 }
+
+.notes-wrapper {
+  font-size: 20px;
+  font-family: 'Archivo', 'Helvetica', 'Arial', 'Sans-Serif';
+}
