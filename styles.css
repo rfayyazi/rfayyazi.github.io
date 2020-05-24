@@ -17,7 +17,7 @@ footer {
   color: #A2A2A2;
   font-size: 0.8em;
   text-align: center;
-  padding-bottom: 500px;
+/*   padding-bottom: 500px; */
   font-family: 'Archivo', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
@@ -137,6 +137,7 @@ td {
   border-style: solid;
   border-width: 1px;
   border-color: #A2A2A2;
+  padding: 50px;
 }
 
 .project-pic img {
