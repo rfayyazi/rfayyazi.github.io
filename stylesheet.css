@@ -1,4 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Archivo);
+
 name {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 32px;
+  font-size: 3.0em;
+  color: #2463AB;
+  font-family: 'Archivo', 'Verdana', 'Helvetica', 'Arial', 'Sans-Serif';
 }
