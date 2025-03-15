@@ -313,39 +313,6 @@ ninja.data = [{
           window.location.href = "/al-folio/blog/2020/twitter/";
         
       },
-    },{id: "post-sequential-monte-carlo-smc",
-      
-        title: "Sequential Monte Carlo (SMC)",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/al-folio/blog/2019/SMC/";
-        
-      },
-    },{id: "post-characterizing-mpfc-bla-activity-in-rats-under-non-stationary-stochastic-reward",
-      
-        title: "Characterizing mPFC/BLA activity in rats under non-stationary stochastic reward",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/al-folio/blog/2019/rat-decision-making/";
-        
-      },
-    },{id: "post-markov-decision-processes-mdps",
-      
-        title: "Markov decision processes (MDPs)",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/al-folio/blog/2019/markov_decision_process/";
-        
-      },
     },{id: "post-a-post-with-disqus-comments",
       
         title: "a post with disqus comments",
