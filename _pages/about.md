@@ -27,7 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm a NeuroAI researcher at [Cold Spring Harbor Lab](https://www.cshl.edu/), where I work with [Ben Cowley](https://cowleygroup.cshl.edu/) and [Florin Albeanu](https://albeanulab.labsites.cshl.edu/) to build computational models of decision-making behavior. I am broadly interested in modeling the cognitive algorithms underlying lifelong, autotelic decision-making in animals, and building similarily capable artificial agents. I am particularily interested in continual learning, hierarchical reinforcement learning, and intrinsic motivation.
+Hi! I'm a NeuroAI researcher at [Cold Spring Harbor Lab](https://www.cshl.edu/), where I work with [Ben Cowley](https://cowleygroup.cshl.edu/) and [Florin Albeanu](https://albeanulab.labsites.cshl.edu/) to build computational models of decision-making behavior. I am broadly interested in modeling the cognitive algorithms underlying lifelong, autotelic decision-making in animals, and building similarily capable artificial agents. 
+<!-- I am particularily interested in continual learning, hierarchical reinforcement learning, and intrinsic motivation. -->
 
 In Fall 2025, I will be starting a PhD in the [Cognition and Perception](https://as.nyu.edu/departments/psychology/graduate/phd-cognition-perception.html) program at NYU. Before joining CSHL, I received an MSc in Computer Science and a BSc in Integrated Science from The University of British Columbia, working with [Frank Wood](https://www.cs.ubc.ca/~fwood/) and [Jeremy Seamans](https://www.centreforbrainhealth.ca/faculty/jeremy-seamans/).
 
