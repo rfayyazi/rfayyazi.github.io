@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic_color.png
+  # image: prof_pic_color.png
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>Freeman Building</p>
@@ -31,7 +31,6 @@ Hi! I'm a NeuroAI researcher at [Cold Spring Harbor Lab](https://www.cshl.edu/),
 <!-- I am particularily interested in continual learning, hierarchical reinforcement learning, and intrinsic motivation. -->
 
 In Fall 2025, I will be starting a PhD in the [Cognition and Perception](https://as.nyu.edu/departments/psychology/graduate/phd-cognition-perception.html) program at NYU. Before joining CSHL, I received an MSc in Computer Science and a BSc in Integrated Science from The University of British Columbia, working with [Frank Wood](https://www.cs.ubc.ca/~fwood/) and [Jeremy Seamans](https://www.centreforbrainhealth.ca/faculty/jeremy-seamans/).
-
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
