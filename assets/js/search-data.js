@@ -9,12 +9,26 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/al-folio/";
     },
-  },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+  },{id: "nav-contact",
+          title: "Contact",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/al-folio/contact/";
+          },
+        },{id: "nav-curriculum-vitae",
+          title: "Curriculum vitae",
+          description: "Updated Jan 2025",
           section: "Navigation",
           handler: () => {
             window.location.href = "/al-folio/cv/";
+          },
+        },{id: "nav-scholar",
+          title: "scholar",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/al-folio/scholar/";
           },
         },{id: "post-a-post-with-image-galleries",
       
@@ -429,11 +443,4 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/al-folio/projects/9_project/";
-            },},{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=Q_nRX9gAAAAJ", "_blank");
-        },
-      },];
+            },},];
