@@ -1,8 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'github-pages', group: :jekyll_plugins
-gem 'jekyll-include-cache', group: :jekyll_plugins
-gem 'webrick'
+gem 'jekyll'
 
 # Core plugins that directly affect site building
 group :jekyll_plugins do
@@ -14,7 +12,7 @@ group :jekyll_plugins do
     gem 'jekyll-jupyter-notebook'
     gem 'jekyll-link-attributes'
     gem 'jekyll-minifier'
-    gem 'jekyll-paginate'
+    gem 'jekyll-paginate-v2'
     gem 'jekyll-regex-replace'
     gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
@@ -23,9 +21,6 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'jekyll-seo-tag'
-    gem 'jekyll-gist'
-    gem 'jekyll-github-metadata'
 
     gem 'classifier-reborn'  # used for content categorization during the build
 end
@@ -39,4 +34,5 @@ group :other_plugins do
     gem 'ostruct'        # used by jekyll-twitter-plugin
     # gem 'terser'         # used by jekyll-terser
     # gem 'unicode_utils' -- should be already installed by jekyll
+    # gem 'webrick' -- should be already installed by jekyll
 end
