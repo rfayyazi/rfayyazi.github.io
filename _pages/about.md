@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -27,10 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm a NeuroAI researcher at [Cold Spring Harbor Lab](https://www.cshl.edu/), where I work with [Ben Cowley](https://cowleygroup.cshl.edu/) and [Florin Albeanu](https://albeanulab.labsites.cshl.edu/) to build computational models of decision-making behavior in mice. I am broadly interested in modeling the cognitive algorithms underlying [never-ending](https://dl.acm.org/doi/10.1145/3191513), [autotelic](https://arxiv.org/abs/2012.09830) decision-making in animals, and building similarily capable artificial agents. 
+Hi! I'm a researcher at [Cold Spring Harbor Lab](https://www.cshl.edu/), where I work with [Ben Cowley](https://cowleygroup.cshl.edu/) and [Florin Albeanu](https://albeanulab.labsites.cshl.edu/) to build computational models of decision-making in mice. 
+I am broadly interested in 1) modeling the cognitive algorithms underlying [never-ending](https://dl.acm.org/doi/10.1145/3191513), [autotelic](https://arxiv.org/abs/2012.09830) decision-making in animals, and 2) building similarily capable artificial agents. 
 <!-- I am particularily interested in continual learning, hierarchical reinforcement learning, and intrinsic motivation. -->
 
-In Fall 2025, I will be starting a PhD in the [Cognition and Perception](https://as.nyu.edu/departments/psychology/graduate/phd-cognition-perception.html) program at NYU. Before joining CSHL, I received an MSc in Computer Science and a BSc in [Integrated Sciences](https://you.ubc.ca/ubc_programs/integrated-sciences/) from The University of British Columbia, working with [Frank Wood](https://www.cs.ubc.ca/~fwood/) and [Jeremy Seamans](https://www.centreforbrainhealth.ca/faculty/jeremy-seamans/).
+Before joining CSHL, I received an MSc in Computer Science and BSc in [Integrated Sciences](https://you.ubc.ca/ubc_programs/integrated-sciences/) from The University of British Columbia, working with [Frank Wood](https://www.cs.ubc.ca/~fwood/) and [Jeremy Seamans](https://www.centreforbrainhealth.ca/faculty/jeremy-seamans/). 
+In Fall 2025, I'll be starting a PhD in [Cognition & Perception](https://as.nyu.edu/departments/psychology/graduate/phd-cognition-perception.html) at NYU 🌆
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

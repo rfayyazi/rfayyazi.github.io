@@ -1,7 +1,7 @@
 ---
 layout: redirect
 permalink: /scholar/
-title: scholar
+title: GScholar
 nav: true
 nav_order: 6
 redirect: https://scholar.google.com/citations?user=Q_nRX9gAAAAJ
