@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "nav-curriculum-vitae",
-          title: "Curriculum vitae",
-          description: "Updated Jan 2025",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-gscholar",
           title: "GScholar",
           description: "",
