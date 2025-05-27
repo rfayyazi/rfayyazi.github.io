@@ -28,9 +28,11 @@ latest_posts:
 ---
 
 Hi! I'm a researcher at [Cold Spring Harbor Lab](https://www.cshl.edu/), where I work with [Ben Cowley](https://cowleygroup.cshl.edu/) and [Florin Albeanu](https://albeanulab.labsites.cshl.edu/) to build computational models of decision-making in mice. 
-I am broadly interested in 1) modeling the cognitive algorithms underlying [open-ended](https://arxiv.org/abs/2311.00344), [autotelic](https://arxiv.org/abs/2012.09830) decision-making in animals, and 2) building similarily capable artificial agents. 
+I am broadly interested in modeling the cognitive algorithms underlying open-ended, autotelic decision-making in animals, and building similarily capable artificial agents. 
 <!-- I am particularily interested in continual learning, hierarchical reinforcement learning, and intrinsic motivation. -->
 <!-- [never-ending](https://dl.acm.org/doi/10.1145/3191513) -->
+<!-- [open-ended](https://arxiv.org/abs/2311.00344) -->
+<!-- [autotelic](https://arxiv.org/abs/2012.09830) -->
 
 
 Before joining CSHL, I received an MSc in Computer Science and BSc in [Integrated Sciences](https://you.ubc.ca/ubc_programs/integrated-sciences/) from The University of British Columbia, working with [Frank Wood](https://www.cs.ubc.ca/~fwood/) and [Jeremy Seamans](https://www.centreforbrainhealth.ca/faculty/jeremy-seamans/). 
