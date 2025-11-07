@@ -32,16 +32,19 @@ latest_posts:
 2) http://localhost:4000 
 -->
 
-Hi! I'm a researcher at [Cold Spring Harbor Lab](https://www.cshl.edu/), where I work with [Ben Cowley](https://cowleygroup.cshl.edu/) and [Florin Albeanu](https://albeanulab.labsites.cshl.edu/) to build computational models of decision-making in mice. 
-I'm broadly interested in modeling the cognitive algorithms underlying open-ended, autotelic decision-making in animals, and building similarly capable artificial agents. 
+Hi! I'm a PhD student in the [Cognition & Perception](https://as.nyu.edu/departments/psychology/graduate/phd-cognition-perception.html) program at NYU, advised by [Cate Hartley](https://as.nyu.edu/faculty/catherine-alexandra-hartley.html). I'm interested in modeling the cognitive algorithms underlying open-ended, autotelic decision-making in animals, and building similarly capable artificial agents. 
+
+Before joining NYU, I was a researcher at [Cold Spring Harbor Lab](https://www.cshl.edu/), where I worked with [Ben Cowley](https://cowleygroup.cshl.edu/) and [Florin Albeanu](https://albeanulab.labsites.cshl.edu/) to build computational models of closed-loop decision-making in mice. I hold an MSc in Computer Science and BSc in [Integrated Sciences](https://you.ubc.ca/ubc_programs/integrated-sciences/) from the University of British Columbia, where I collaborated with [Frank Wood](https://www.cs.ubc.ca/~fwood/) and [Jeremy Seamans](https://www.centreforbrainhealth.ca/faculty/jeremy-seamans/).
+
+
+<!-- Hi! I'm a researcher at [Cold Spring Harbor Lab](https://www.cshl.edu/), where I work with [Ben Cowley](https://cowleygroup.cshl.edu/) and [Florin Albeanu](https://albeanulab.labsites.cshl.edu/) to build computational models of decision-making in mice. 
+I'm broadly interested in modeling the cognitive algorithms underlying open-ended, autotelic decision-making in animals, and building similarly capable artificial agents.  -->
 <!-- I am particularily interested in continual learning, hierarchical reinforcement learning, and intrinsic motivation. -->
 <!-- [never-ending](https://dl.acm.org/doi/10.1145/3191513) -->
 <!-- [open-ended](https://arxiv.org/abs/2311.00344) -->
 <!-- [autotelic](https://arxiv.org/abs/2012.09830) -->
-
-
-Before joining CSHL, I received an MSc in Computer Science and BSc in [Integrated Sciences](https://you.ubc.ca/ubc_programs/integrated-sciences/) from The University of British Columbia, working with [Frank Wood](https://www.cs.ubc.ca/~fwood/) and [Jeremy Seamans](https://www.centreforbrainhealth.ca/faculty/jeremy-seamans/). 
-In Fall 2025, I'll be starting a PhD in [Cognition & Perception](https://as.nyu.edu/departments/psychology/graduate/phd-cognition-perception.html) at NYU 🌆
+<!-- Before joining CSHL, I received an MSc in Computer Science and BSc in [Integrated Sciences](https://you.ubc.ca/ubc_programs/integrated-sciences/) from The University of British Columbia, working with [Frank Wood](https://www.cs.ubc.ca/~fwood/) and [Jeremy Seamans](https://www.centreforbrainhealth.ca/faculty/jeremy-seamans/). 
+In Fall 2025, I'll be starting a PhD in [Cognition & Perception](https://as.nyu.edu/departments/psychology/graduate/phd-cognition-perception.html) at NYU 🌆 -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
