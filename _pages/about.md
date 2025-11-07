@@ -32,7 +32,7 @@ latest_posts:
 2) http://localhost:4000 
 -->
 
-Hi! I'm a PhD student in the [Cognition & Perception](https://as.nyu.edu/departments/psychology/graduate/phd-cognition-perception.html) program at NYU, advised by [Cate Hartley](https://as.nyu.edu/faculty/catherine-alexandra-hartley.html). I'm interested in modeling the cognitive algorithms underlying open-ended, autotelic decision-making in animals, and building similarly capable artificial agents. 
+Hi! I'm a PhD student in the [Cognition & Perception](https://as.nyu.edu/departments/psychology/graduate/phd-cognition-perception.html) program at NYU, advised by [Cate Hartley](https://as.nyu.edu/faculty/catherine-alexandra-hartley.html). I'm interested in modeling the cognitive algorithms underlying open-ended autotelic decision-making in animals, and building similarly capable artificial agents. 
 
 Before joining NYU, I was a researcher at [Cold Spring Harbor Lab](https://www.cshl.edu/), where I worked with [Ben Cowley](https://cowleygroup.cshl.edu/) and [Florin Albeanu](https://albeanulab.labsites.cshl.edu/) to build computational models of closed-loop decision-making in mice. I hold an MSc in Computer Science and BSc in [Integrated Sciences](https://you.ubc.ca/ubc_programs/integrated-sciences/) from the University of British Columbia, where I collaborated with [Frank Wood](https://www.cs.ubc.ca/~fwood/) and [Jeremy Seamans](https://www.centreforbrainhealth.ca/faculty/jeremy-seamans/).
 
